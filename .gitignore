@@ -1,0 +1,13 @@
+# binaries
+hello
+out
+parser
+lisp
+refute
+
+# object files
+*.o
+*.h
+*.hi
+*.ll
+
